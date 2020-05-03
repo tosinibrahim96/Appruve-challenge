@@ -1,0 +1,11 @@
+{
+  "subscribers": [
+    {
+      "id": 1,
+      "firstName": "firstname 1",
+      "lastName": "lastname 1",
+      "subscription": "Gold",
+      "date": "2019-05-30T17:30:31.098Z"
+    }
+  ]
+}
