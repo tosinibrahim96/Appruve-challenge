@@ -6,6 +6,13 @@
       "lastName": "lastname 1",
       "subscription": "Gold",
       "date": "2019-05-30T17:30:31.098Z"
+    },
+    {
+      "firstName": "randomfirstname",
+      "lastName": "randomLastname",
+      "subscription": "Bronze",
+      "date": "2020-05-03T10:43:26.314Z",
+      "id": 2
     }
   ]
 }
